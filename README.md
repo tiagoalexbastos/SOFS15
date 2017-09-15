@@ -1,2 +1,1 @@
-# SOFS15
-SO File System 2015
+# SOFS15 - SO File System 2015
